@@ -1,4 +1,4 @@
-# 2020 SMWU X KYU Hackathon (2020/12/28-2020/12/30)
+# 2020 SMWU X KYU Hackathon (2020/12/28-12/30)
 
 1. Project Name: BF(Barrier-free & Best Friend)
 
