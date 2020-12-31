@@ -2,7 +2,7 @@
 
 Project Name: BF(Barrier-free & Best Friend)
 
-team member: (SMWU) JungHyun Moon, JeongIn Sun, YeJin Jeong (KYU) Naoto Ikemoto, Keigo Ishikawa
+Team member: (SMWU) JungHyun Moon, JeongIn Sun, YeJin Jeong (KYU) Naoto Ikemoto, Keigo Ishikawa
 
 My role: Team leader & Web programmer 
 
