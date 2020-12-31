@@ -1,8 +1,8 @@
-# 2020 SMWU X KYU Hackathon
+# 2020 SMWU X KYU Hackathon (2020/12/28-2020/12/30)
 
 1. Project Name: BF(Barrier-free & Best Friend)
 
-   url: https://bf-handimakers.netlify.app/
+   URL: https://bf-handimakers.netlify.app/
 
 2. Team member: (SMWU) JungHyun Moon, JeongIn Sun, YeJin Jeong (KYU) Naoto Ikemoto, Keigo Ishikawa
 
